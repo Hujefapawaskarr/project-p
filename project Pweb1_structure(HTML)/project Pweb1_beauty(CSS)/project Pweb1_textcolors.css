@@ -1,0 +1,60 @@
+#topmainmsg0 {
+    position: relative;
+    right: 110px;
+    top : 10px;
+}
+#contact {
+    position: relative;
+    font-size: 13px;
+    top: 5px;
+}
+
+#topmainmsg1 {
+    position: relative;
+    left: 50px;
+   
+}
+
+
+
+h1,h2 {
+    text-align: center;
+}
+
+#info1 {
+    text-align: center;
+}
+
+#myacad {
+    color:blue;
+    text-align: center;
+}
+
+#last {
+    text-align: center;
+}
+
+#cpy {
+    text-align: right;
+}
+
+#hp2button {
+    color: rgba(181, 218, 18, 0.863);
+    background-color: rgb(132, 0, 255);
+}
+
+button {
+    display: block;
+}
+
+#lastmsg { 
+    text-align: right;
+    color: rgb(131, 243, 19);
+    
+}
+
+body {
+     background-image: url("redhacker.jpg");
+
+   background-size: cover;
+}
